@@ -15,5 +15,5 @@ This repository contains my Node.js practice code, covering various backend deve
 
 ## Contact
 
-- **Email:** vinayp.techdev@gmail.com  
-- **LinkedIn:** (https://linkedin.com/in/vinay-techdev)  
+**Email:** vinayp.techdev@gmail.com  
+[LinkedIn](https://linkedin.com/in/vinay-techdev)  
