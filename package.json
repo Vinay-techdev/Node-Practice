@@ -1,0 +1,11 @@
+{
+  "name": "vinay",
+  "version": "1.0.0",
+  "description": "pratice package .json file",
+  "main": "HttpModule.js",
+  "scripts": {
+    "test": "text"
+  },
+  "author": "vinay",
+  "license": "ISC"
+}
